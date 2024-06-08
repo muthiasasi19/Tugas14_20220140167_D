@@ -1,6 +1,14 @@
 LAPORAN 
 [Tugas14_20220140167_D..pdf](https://github.com/user-attachments/files/15749068/Tugas14_20220140167_D.pdf)
 
+Screenshoot
+![Screenshot (174)](https://github.com/muthiasasi19/Tugas14_20220140167_D/assets/126458889/a3530c56-0128-4721-8570-afc711da7b0e)
+
+![Cuplikan layar 2024-06-08 232752](https://github.com/muthiasasi19/Tugas14_20220140167_D/assets/126458889/66d067e4-4b26-411f-ba6e-f343140165cd)
+
+![Screenshot (173)](https://github.com/muthiasasi19/Tugas14_20220140167_D/assets/126458889/d19d5530-5d21-4f5c-9b51-179688907b52)
+![Screenshot (172)](https://github.com/muthiasasi19/Tugas14_20220140167_D/assets/126458889/d2c18d48-4629-4556-b8d8-e69d1694a3fa)
+
 
 # Getting Started with Create React App
 
