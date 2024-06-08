@@ -1,5 +1,5 @@
-import logo from './logo.svg';
 import './App.css';
+import logo from './logo.svg';
 
 function App() {
   return (
@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Create by: Muthia Sasi
         </p>
         <a
           className="App-link"
@@ -18,7 +18,17 @@ function App() {
           Learn React
         </a>
       </header>
+      <div className="container custom-container">
+        <h1 className="custom-title">˗ˏˋ ★ ˎˊ˗ welcome to My React App !!</h1>
+        <p className="custom-paragraph">"Technology refers to the use of tools, machines, and systems to solve problems, enhance efficiency, and improve quality of life."</p>
+        
+      </div>
+      
     </div>
+    
+    
+
+    
   );
 }
 
